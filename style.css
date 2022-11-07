@@ -88,8 +88,8 @@ h4 {
 }
 
 .card .imgBox img {
-	min-width: 600px;
-	max-height: 800px;
+	width: 600px;
+	height: 800px;
 }
 
 .card:active  .imgBox {
